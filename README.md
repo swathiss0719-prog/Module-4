@@ -160,7 +160,7 @@ print("Number of lines not starting with 'T':", count)
 ```
 ## Output
 
-<img width="745" height="239" alt="image" src="https://github.com/user-attachments/assets/3a688105-9cf1-4eff-92ad-f96b14794498" />
+<img width="1119" height="522" alt="image" src="https://github.com/user-attachments/assets/61049205-3c32-42d2-9f81-d988f684ed87" />
 
 ## Result
 Thus, the program has been excecuted successfully.
